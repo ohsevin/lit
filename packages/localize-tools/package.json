@@ -131,12 +131,12 @@
   ],
   "dependencies": {
     "@lit/localize": "^0.11.0",
-    "@xmldom/xmldom": "^0.8.2",
+    "@xmldom/xmldom": "^0.8.4",
     "fast-glob": "^3.2.7",
     "fs-extra": "^10.0.0",
     "jsonschema": "^1.4.0",
     "lit": "^2.2.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.7",
     "parse5": "^6.0.1",
     "source-map-support": "^0.5.19",
     "typescript": "~4.7.4"
